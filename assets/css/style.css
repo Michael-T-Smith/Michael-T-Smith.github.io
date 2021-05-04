@@ -85,7 +85,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #00A7EA;
 }
 
 .overlay-mf {
@@ -95,7 +95,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .7;
+  opacity: .9;
 }
 
 .paralax-mf {
@@ -1261,7 +1261,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Blog Single
+# Works Single
 --------------------------------------------------------------*/
 .post-box,
 .form-comments,
@@ -1421,7 +1421,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #00A7EA;
 }
 
 footer .copyright {
