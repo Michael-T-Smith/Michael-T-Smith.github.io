@@ -463,6 +463,10 @@ a:hover {
   background: rgba(0, 0, 0, 0.9);
   padding: 12px 0;
 }
+#headerMessage {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 150px;
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
