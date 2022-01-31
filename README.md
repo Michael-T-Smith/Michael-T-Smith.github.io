@@ -1,5 +1,5 @@
 ```
 Welcome to my website portfolio. 
 
-Visit https://michael-t-smith.github.io/ to see the website in action.
+Visit https://michaeltsmith.netlify.app to see the website in action.
 ```
